@@ -102,7 +102,7 @@
     "fix-path": "<4.0.0",
     "iconv-lite": "^0.5.1",
     "jschardet": "^3.0.0",
-    "natsort": "^2.0.2",
+    "natsort": "^2.0.3",
     "pikaday": "^1.8.0",
     "preact": "^10.4.0",
     "react-markdown": "^8.0.3",
